@@ -1,0 +1,23 @@
+.row{
+    border:solid green 2px; 
+}
+[class *= 'col']{
+    border: solid green 2px;
+    
+}
+
+input{
+    width: 30%;
+}
+
+table{
+    border: solid green 2px; 
+    
+    background-color: green;
+}
+
+button{
+    background-color: green;
+    border: solid rgb(1, 50, 1) 2px;
+    border-radius: 20%;
+}
